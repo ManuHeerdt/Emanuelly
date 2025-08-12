@@ -1,9 +1,35 @@
-body{
+body {
     background-color: rgba(128, 196, 252, 0.712);
 }
 
-h1{
+h1 {
     font-family: Georgia, 'Times New Roman', Times, serif;
-    
+}
 
+section{
+    max-width: 85%;
+    text-align: center;
+      margin: 0 auto;
+      border-radius: 5px;
+}
+.secao {
+    display: flex;
+    background-color: red;
+}
+
+.imagem {
+      flex: 1;
+    text-align: center;
+    align-self: center;
+}
+
+.texto {
+    flex: 1;
+    padding-right: 20px;
+    padding-left: 2em;
+    align-self: center;
+}
+
+.img200 {
+    width: 200px;
 }
