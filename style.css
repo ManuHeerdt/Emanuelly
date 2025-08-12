@@ -14,7 +14,7 @@ section{
 }
 .secao {
     display: flex;
-    background-color: red;
+    background-color:  rgba(147, 207, 255, 0.712);
 }
 
 .imagem {
