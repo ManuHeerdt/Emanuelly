@@ -2,7 +2,9 @@ body {
     background-color: rgba(128, 196, 252, 0.712);
 }
 header{
-    background-color: aqua;
+    background-color: rgb(8, 121, 121);
+    margin: 0;
+    padding: 20px;
 }
 
 h1 {
