@@ -3,7 +3,7 @@ body {
     padding: 10px;
     background-color: rgba(128, 196, 252, 0.712);
     /* font-family: "Lexend", sans-serif; */
-    font-size: 18px;
+    font-size: 17px;
     line-height: 1.5;
 }
 
@@ -13,7 +13,7 @@ header{
 }
 
 h1 {
-    font-family: Georgia, sans-serif; */
+    font-family: Georgia, sans-serif; 
     text-align: center;
 }
 
