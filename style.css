@@ -3,7 +3,12 @@ body {
 }
 
 h1 {
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: Georgia, 'Times New Roman', Times, sans-serif;
+    text-align: center;
+}
+
+h2{
+        font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 section {
