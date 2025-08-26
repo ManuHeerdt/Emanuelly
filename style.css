@@ -1,6 +1,9 @@
 body {
     background-color: rgba(128, 196, 252, 0.712);
 }
+header{
+    background-color: aqua;
+}
 
 h1 {
     font-family: Georgia, 'Times New Roman', Times, sans-serif;
