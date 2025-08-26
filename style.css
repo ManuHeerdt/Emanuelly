@@ -2,7 +2,8 @@ body {
     margin: 0;
     padding: 10px;
     background-color: rgba(128, 196, 252, 0.712);
-      font-family: "Lexend", sans-serif;
+    font-family: "Lexend", sans-serif;
+    line-height: 1.5;
 }
 
 header{
